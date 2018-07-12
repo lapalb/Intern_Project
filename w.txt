@@ -1,0 +1,320 @@
+0.1 ID:0 Changed:[switch-1]
+%CRYPTO_ENGINE-5-KEY_ADDITION: A key named TP-self-signed-3661210606 has been generated or imported
+%SYS-5-LOG_CONFIG_CHANGE: Buffer logging: level debugging xml disabled filtering disabled size (1000000)
+%SSH-5-DISABLED: SSH 1.99 has been disabled
+%SMART_LIC-2-PLATFORM_ERROR: Smart Licensing has encountered an internal software error. Contact TAC: The platform provided UDI list has invalid valu
+%SYS-5-RESTART: System restarted --
+%SSH-5-ENABLED: SSH 1.99 has been enabled
+%CRYPTO_ENGINE-5-KEY_ADDITION: A key named TP-self-signed-3661210606.server has been generated or imported
+%SYS-6-BOOTTIME: Time taken to reboot after reload =  678 seconds
+%PKI-4-NOAUTOSAVE: Configuration was modified.  Issue write memory to save new certificate
+%CRYPTO-6-ISAKMP_ON_OFF: ISAKMP is OFF
+%PKI-2-NON_AUTHORITATIVE_CLOCK: PKI functions can not be initialized until an authoritative time source like NTP can be obtained.
+%PLATFORM-6-RF_PROG_SUCCESS: RF state STANDBY HOT
+ACT2 entropy retrieval failure
+ACT2: result Skipped:SSD:NG6K-FD-SSD         :CAT2111L0GA set to act2/status-ssd_fru
+Active Switch bulk sync done
+Added a new ipc connection
+Asynchronous connect failed for [uipeer uplink to slot 1] (fd == -1)
+Audit power: cman main pfu starfleet init:0
+Audit power: feature enabled
+Audit power: Initialized redun operating mode none in chasfs
+Audit power: polling timer initialization done.
+Bad flag name [ether_sfp28] (0x5622354876a8) error -2
+Bad part number 0x4947a702 when add inventory. FRU 0 slot 0
+%BOOT-3-SYSD_STARTFAIL: Chassis 1 R0/0: root: Failed to launch boot task smart_health.service ( exit-code )
+Calling cman_starfleet_init_asic_desc
+CC 1 card type is d8b 3467
+CC:false CLOSE_WRITE-CLOSE /tmp/rp/chasfs/cc/1/0/ state
+chasfs event: pman opcode 1 entry_type 0 objname pman name sw-nginx-service
+chasfs event: RP bay 0 opcode 1 entry_type 0 objname rp/0/0 name hostinfo
+chasfs event: RP bay 0 opcode 1 entry_type 1 objname rp/0/0 name ios_config_dirty
+chasfs event: RP bay 0 opcode 1 entry_type 1 objname rp/0/0 name rfrole
+chasfs event: RP bay 0 opcode 3 entry_type 1 objname rp/0/0 name rfrole
+chasfs event: unknown watch handle
+Chasfs: mastership property active-fp set to fp/0/0
+Chasfs: mastership property standby-fp set to fp/1/0
+CHASFS: Send local midplane/idprom/pkt_ready setting to remote
+CHASFS: Set Mastership standby-rp-state sso-ready in fp
+CHASFS: Stack chassis 1 chasfs property valid
+CHASFS: Stack chassis 2 chasfs property valid
+CHASFS: Standby IOSd has become SSO ready
+Chasfs: started watch on hwprg/cc/0. Status Success
+chassis_type:44
+Check and Fix Egress Q Success for lpn 5 aal_rc 0
+Checking if licensing is supported and required
+CMANRP-GOLD: Cannot get the sensor name
+CMANRP-GOLD: pass value not equal to sensor count
+CMAN SF SSD ACT2: Authentication result 0x6 pid[NG6K-FD-SSD         ] sn[CAT2111L0GA]
+CMAN SF SSD BFR WRITE ACT2_result = Skipped:SSD:NG6K-FD-SSD         :CAT2111L0GA  status = 6
+CM_C2W message received: 1/0
+CMLIB_IPC: chassisnum = -1
+CMLIB IPC Create Client: IOS
+CMLIB IPC: Successfully connected to iosd_cmrp TDL domain
+CMLIB RIPC channel terminated: ngmod-iosd-cman
+%CMRP-3-IDPROM_SENSOR: Chassis 1 R0/0: cmand: One or more sensor fields from the idprom failed to parse properly because Invalid argument.
+%CMRP-3-IDPROM_SENSOR: One or more sensor fields from the idprom failed to parse properly because Invalid argument.
+Connection attempt for sman-ui-serv (uipeer uplink to slot 1) failed invoking disconnect
+Constructing domain iosd_cmrp.rp_0_0_rp_0_0
+Could not get SPA 1/0 max power error 5
+CPLD compat:  R0 ver  fru[0] chas[44]
+CPLD sfchassis: get vector starfleet
+CPLD sfehsa: setting master rp slot to 0
+CPLD SFEHSA state set: Active rtn 0
+CPLD sfehsa state set: configuring local i2c
+CPLD sfehsa state set: unmasking interrupts
+CPU timeslice violation: 2 times 182000 usecs event 222 context 1D206950
+CREATE pf_sso_state obj
+%CRYPTO_ENGINE-5-KEY_ADDITION: A key named TP-self-signed-3661210606 has been generated or imported
+DAD Obj: stack_mgr/distr_stack/dad not present.So not watching
+Declaring stack link:0 as down
+Declaring stack link:1 as no cable
+DISTR_STACK sv_init: init(0)
+DISTR_STACK sv_init: post-init(1)
+Doppler temp open failed.
+dsvl Obj: stack_mgr/distr_stack/pagp_dad
+Dual active detection links are not configured
+Dual IOS flags: 0
+Empty lc portmap file
+emshim-emclient RIPC connection pending
+Entity IPC connect done Invalid fd
+Entropy timer expired
+Error TAM_ERROR_APP_NOT_REGISTERED logging into TAM Services
+ESI link change received: Card: 5 sid 0 cid 0 failed to update link state: No such device
+F3 Type 6 user specific data: 1229300
+Fan-tray init is successful for slot 2
+FED is ready Starting up NIF Manager
+%FED_PM-3-HW_ERROR: Chassis 2 R0/0: fed: Port Manager error -port set jumbo: hardware update failed.
+First attempt to retrieve ACT2 entropy failed
+%FLASH_CHECK-3-DISK_QUOTA: Chassis 2 R0/0: flash_check: Flash disk quota exceeded [free space is 7432356 kB] - Please clean up files on bootflash.
+Found hwprg/rp/0/cpld_ver during troll value []
+Found hwprg/rp/0/slave_state during troll value [bootup]
+Found hwprg/rp/0/slave_state during troll value [tdb]
+FP 0 card type is 0 0
+FP0 online: oir response w/ reload_immediate 0 sent successfully
+FPGA ver str[] len[0]
+FP master init: F0 is active
+FP online: slot 0
+FP slot 0 setting pkt_ready = 0
+get handle: bad input 10 0 0
+get handle: bad input 11 0 0
+%HA_CONFIG_SYNC-6-BULK_CFGSYNC_SUCCEED: Bulk Sync succeeded
+Handling port lpn 11 CONNECTION change from new status 4 old Status 1
+Handling port lpn 11 LINK change from new 1 old Status 0
+Handling port lpn 11 LINK change from new 1 old Status 1
+Handling port lpn 5 LINK change from new 1 old Status 0
+Handling port lpn 5 LINK change from new 1 old Status 1
+%HW_IDPROM_ENVMON-3-HW_IDPROM_CHECKSUM_INVALID: Chassis 1 R0/0: cmand: The idprom contains an invalid checksum in a sensor entry. Expected: dc05 calc
+HW PFU Starfleet reconfig num_fans from 1 to 1
+Informing Stack Mgr that stack link:1 has no cable present
+init driver slot 0: system(echo pmbus_starfleet_psu 0x58 > /sys/devices/i2c-2/new_device) returns 0
+Init FP portmap infor 
+INITIAL: No. of files 758
+INITIAL SYNC DONE - First Full Sync to chassis: 2 @ 148
+Invalid tamc session when getting entropy
+Inventory event: opcode 3 file inventory_cc_01.bin
+IO FPGA Current CPLD version = 0x05 Firmware version = 0x05
+IO FPGA Skipping Upgrade
+IOS register message: init mqipc for slot 0 bay 0
+%IOSXE-0-PLATFORM: Chassis 1 R0/0: udev: disk0: has been inserted
+%IOSXE-3-PLATFORM: Chassis 1 R0/0: kernel: ata1: irq_stat 0x00400040 connection status changed
+%IOSXE_MGMTVRF-3-SET_TABLEID_FAIL: Installing ipv4 Management interface tableid 0x1 failed
+%IOSXE_MGMTVRF-6-CREATE_SUCCESS_INFO: Management vrf Mgmt-vrf created with ID 1 ipv4 table-id 0x1 ipv6 table-id 0x1E000001
+%IOSXE_OIR-6-INSCARD: Card (cc) inserted in slot 1
+%IOSXE_OIR-6-INSCARD: Card (fp) inserted in slot F0
+%IOSXE_OIR-6-INSSPA: SPA inserted in subslot 3/0
+%IOSXE_OIR-6-ONLINECARD: Card (cc) online in slot 1
+%IOSXE_OIR-6-ONLINECARD: Card (fp) online in slot F0
+%IOSXE_OIR-6-REMCARD: Card () removed from slot 1
+%IOSXE_OIR-6-REMSPA: SPA removed from subslot 3/0 interfaces disabled
+%IOSXE_REDUNDANCY-6-PEER: Active detected switch 2 as standby.
+ipc read: failed to dispatch message 0: No such device
+Late compatibility check of this location failed
+Late resolution of this location failed
+Late resolution of this location succeed after 60004 msec
+Late resolution of this location succeed after 60006 msec
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FortyGigabitEthernet1/0/5 changed state to up
+%LINEPROTO-5-UPDOWN: Line protocol on Interface LI-Null0 changed state to up
+%LINK-3-UPDOWN: Interface EOBC10/1 changed state to up
+%LINK-3-UPDOWN: Interface FortyGigabitEthernet1/0/5 changed state to up
+%LINK-3-UPDOWN: Interface LIIN10/2 changed state to up
+%LINK-3-UPDOWN: Interface Lsmpi10/3 changed state to up
+%LINK-5-CHANGED: Interface GigabitEthernet0/0 changed state to administratively down
+%LINK-5-CHANGED: Interface Vlan1 changed state to administratively down
+Link change but status 1 for lpn 11 not cleaned up
+Link change but status 1 for lpn 5 not cleaned up
+Links are down for all dual active ports
+MASTERSHIP: CLOSE_WRITE-CLOSE active-fp
+MASTERSHIP: CLOSE_WRITE-CLOSE active-fp-state
+MASTERSHIP: CLOSE_WRITE-CLOSE global-active-rp
+MASTERSHIP: CLOSE_WRITE-CLOSE global-standby-rp
+MASTERSHIP: CLOSE_WRITE-CLOSE plat_act_swover_st
+MASTERSHIP: CLOSE_WRITE-CLOSE standby-fp
+MASTERSHIP: CLOSE_WRITE-CLOSE standby-rp-ehsa-state
+MASTERSHIP: CLOSE_WRITE-CLOSE standby-rp-state
+Message is: message@pm_port_cfg: {
+Message received for rf role change 
+MQIPC finished processing initial messages.
+NGMOD_IPC: CMAN NGMOD IOSD IPC READY
+NGMOD_IPC: RIPC with IOSd returned a success code
+NIF: Init - Stack Platform Info Message Sent
+NIF_IPC: Connection Complete: 18
+NIF: Link Status TDL LIPC Msg Send failed: Invalid argument
+NIF: Link Status TDL - Port: 0 state: DOWN
+NIF: Link Status TDL - Port: 0 state: UP
+NIF: Link Status TDL - Port: 1 state: DOWN
+NIF: LIPC Connect to Stack Mgr Successful
+NIF: lipc init connect failure - 0: No such file or directory
+%NIF_MGR-6-PORT_CONNECTION_STATUS_CHANGE: Chassis 1 R0/0: nif_mgr: PORT lpn:11 changed state from Pending to Ready.
+%NIF_MGR-6-PORT_CONN_PENDING: Chassis 1 R0/0: nif_mgr: Port 11 on front side stack link 0 connection is PENDING.
+%NIF_MGR-6-PORT_CONN_READY: Chassis 1 R0/0: nif_mgr: Port 11 on front side stack link 0 connection is READY.
+%NIF_MGR-6-PORT_CONN_TIMEOUT: Chassis 1 R0/0: nif_mgr: Port 11 on front side stack link 0 connection has TIMEOUT: CONN_ERR_CONN_TIMEOUT_ERR
+%NIF_MGR-6-PORT_LINK_UP: Chassis 1 R0/0: nif_mgr: Port 5 on front side stack link 0 is UP.
+%NIF_MGR-6-STACK_LINK_UP: Chassis 1 R0/0: nif_mgr: Front side stack link 0 is UP.
+NIF_MGR: Flash Read - Failed to get ROMMON_BOARDID
+NIF_MGR: FLASH Read - failed to get switch priority
+NIF_MGR FLASH READ: Version Id Read Failed
+NIF_MGR: Send Bipc msg to Stk Mgr BIPC Handle is NULL
+NIF_MGR: Starting NIf Mgr stacking IPC 
+NIF: rtu_support_in_stack_mgr 0
+no initial hwprg entry hwprg/cc/0 
+Not setting domain for cman_fp
+Not setting domain for cmcc
+Object fed_sdp has been created!
+Object fss_lnk_status has been created!
+Object lmp_fed_to_nif_mgr has been created!
+Object lmp_nif_mgr_to_fed has been created!
+Object nif_mgr_to_fed_iosd_msg has been created!
+Object nif_mgr_to_fed_port_bundle has been created!
+Object shut_nif has been created!
+Object stack_mgr/distr_stack/vsl/vsl2 is not present continuing
+Obj: stack_mgr/distr_stack/vsl/vsl1
+%ONEP_BASE-6-SS_ENABLED: ONEP: Service set Base was enabled by Default
+Peer attached: fru cc1:-1 ipc_channel 0x555e99aa3be0
+Peer attached: fru cc1:-1 ipc_channel 0x5638df0ffbe0
+Peer attached: fru rp0:0 ipc_channel 0x555e99aa3c30
+Periodic BACKUP sync of non-inotify dirs
+platform_family_type = 11
+%PMAN-3-PROC_EMPTY_EXEC_FILE: Chassis 1 R0/0: pvp: Empty executable used for process ngiolite
+%PMAN-3-PROC_EMPTY_EXEC_FILE: Chassis 2 R0/0: pvp: Empty executable used for process ngiolite
+%PNP-6-PNP_DISCOVERY_STOPPED: PnP Discovery stopped (Startup Config Present)
+portmap removal handling
+Rcvd. chasfs resend message
+Reallocating resource for ios_get_tp_info_response_params
+Reallocating resource for keybuff
+Reallocating resource for raw_msg
+Reallocating resource for tdl_cce_class
+Received IOSd Notify RF Role message (standalone IOS): role 1 mode 1
+Received IOSd Notify RF Role message (standalone IOS): role 1 mode 4
+Received message: message@client_reg: {
+Received message: message@iosd_notify_rf_role: {
+Received SSD FRU oir insert event
+Received standby IOSd state 0
+Receive SPA Response from IOS action 1 slot 1 bay 0 result 0 rc 0
+Recovering timed out connection new status 1 old status 4 to NIF_MGR_CONN_PENDING
+%REDUNDANCY-3-PEER_MONITOR: PEER_FOUND event on standby
+%REDUNDANCY-5-PEER_MONITOR_EVENT: Active detected a standby insertion (raw-event=PEER_FOUND(4))
+Redundancy mode: old mode 0 new mode 1
+Redundancy mode: old mode 4 new mode 4
+Resolved HW library chassis type: STARFLEET_PROMETHEUS
+Restart: restarting in a running system
+%RF-5-RF_TERMINAL_STATE: Terminal state reached for (SSO)
+SDP Tx Begins ....
+serdes lib init completed: FRU 0 slot 0.
+serdes lib init starts in STARFLEET_PROMETHEUS .....
+Serdes library initailization done for FRU 0 slot 0 in STARFLEET_PROMETHEUS
+Server indicated error 0x400 in SRP2
+Setting connection new status 4 old status 1 to PORT_CONN_TIMEOUT
+Setting link new status 1 old status 0 to PORT_LINK_UP
+Setup ESI after receive event inbox/rp/0/.last_push
+SF SSD FRU ACT2 Authentication
+Shutdown: no frus configured shutdown
+SIF FLASH READ: FIPS KEY Read Failed
+Skipping SSD ACT2 auth: size = 1 buf = 1
+%SMART_LIC-2-PLATFORM_ERROR: Smart Licensing has encountered an internal software error. Contact TAC: The platform provided UDI list has invalid valu
+%SMART_LIC-6-AGENT_READY: Smart Agent for Licensing is initialized
+%SMART_LIC-6-HA_ROLE_CHANGED: Smart Agent HA role changed to Standby.
+SMN: sending stack stable  detection TDL
+%SNMP-5-COLDSTART: SNMP agent on host switch-1 is undergoing a cold start
+SPA 1/0 card type is 0xd8b (3467)
+%SPA_OIR-6-OFFLINECARD: SPA (C9500-32QC) offline in subslot 3/0
+SPA OIR Remove processing for slot 1 bay 0
+SPA online: 1/0 oir_cause 1
+SPA online: 1/0 oir_cause 2
+%SSH-5-ENABLED: SSH 1.99 has been enabled
+STACK ACK Value: 12345
+Stack link 0 Port 0 for lpn 11
+Stack link 0 Port 2 for lpn 5
+Stack link 0 STACK_LINK_UP
+%STACKMGR-6-ACTIVE_ELECTED: Chassis 1 R0/0: stack_mgr: Chassis 1 has been elected ACTIVE.
+%STACKMGR-6-CHASSIS_ADDED: Chassis 1 R0/0: stack_mgr: Chassis 1 has been added to the stack.
+%STACKMGR-6-STACK_LINK_CHANGE: Chassis 1 R0/0: stack_mgr: Stack port 1 on Chassis 1 is down
+%STACKMGR-6-STANDBY_ELECTED: Chassis 1 R0/0: stack_mgr: Chassis 2 has been elected STANDBY.
+stack_mgr_ack called
+Standby switch is sso ready and notifying                                       to dependent app's
+Startup: all inventory received...
+Startup: chasfs process object created
+Startup: init master sm: active state s_master_standalone/32
+Startup: init master sm: standby state s_master_idle/128
+Startup: restart: chasfs reinit fru cc/1 init sm state to s_cc_request/48
+Startup: restart: chasfs reinit fru: c-fru = cc/1
+Startup: restart: chasfs reinit fru: fp-fru = fp/0
+State change detected. Sending iosd message from NIF to FED
+Successfully sent chasfs prop resend message 
+Successfully set chassis_model property under 1/rp/chasfs/midplane with C9500-32QC          
+Successfully set chassis_model property under 2/rp/chasfs/midplane with C9500-32QC          
+Successfully set chassis_serial_number property under 1/rp/chasfs/midplane with 
+Successfully set chassis_serial_number property under 2/rp/chasfs/midplane with 
+Successfully set chassis_type property under 1/rp/chasfs/midplane with STARFLEET_PROMETHEUS
+Successfully set chassis_type property under 2/rp/chasfs/midplane with STARFLEET_PROMETHEUS
+Successfully set model_revision_number property under 1/rp/chasfs/midplane with V00
+Successfully set model_revision_number property under 2/rp/chasfs/midplane with V00
+Successfully set number property under 1/rp/chasfs/idprom/assembly with 47A7
+Successfully set number property under 2/rp/chasfs/idprom/assembly with 47A7
+Successfully set pkt_ready property under 1/rp/chasfs/fp/0 with true
+Successfully set pkt_ready property under 2/rp/chasfs/fp/0 with true
+Successfully set platform_fam_type property under 1/rp/chasfs/midplane with STARFLEET
+Successfully set platform_fam_type property under 2/rp/chasfs/midplane with STARFLEET
+Successfully set revision property under 1/rp/chasfs/idprom/assembly with 1
+Successfully set revision property under 2/rp/chasfs/idprom/assembly with 2
+Successfully set serial_number property under 1/rp/chasfs/midplane with CAT2042L2Q7
+Successfully set serial_number property under 2/rp/chasfs/midplane with CAT2112L3TC
+Successfully set sudi property under 1/rp/chasfs/midplane with 
+Successfully set sudi property under 2/rp/chasfs/midplane with 
+Switch1:chassis_serial_number
+Switch2:chassis_serial_number
+Switch is already Active. Active transition from Stack Mgr is ignored
+Sync CC/SPA /tmp/chassis/local/rp/chasfs/cc/1/0/ w/o delete
+%SYS-3-HARIKARI: Process pki_app top-level routine exited
+%SYS-5-CONFIG_I: Configured from memory by console
+%SYS-5-LOG_CONFIG_CHANGE: Buffer logging: level debugging xml disabled filtering disabled size (1000000)
+%SYS-5-RESTART: System restarted --
+%SYS-6-BOOTTIME: Time taken to reboot after reload =  481 seconds
+%SYSTEM-5-SYSTEM_SHELL_LOG: Chassis 1 R0/0: mcp_record_shell: 2018/04/05 14:12:30 : Shell access was granted to user <anon>; Trace file:  /crashinfo
+TAMC IPC: tamc app login failed: TAM_ERROR_APP_NOT_REGISTERED
+Throughput vlaue set to default of 2500000 kbps
+/tmp/chassis/local/rp/chasfs/cc/1/0/ Sync to global-active-rp: OK
+/tmp/chassis/local/rp/chasfs/mastership/ Sync to global-active-rp: OK
+/tmp/chassis/local/rp/chasfs/rp/0/0/etc/ Sync to global-active-rp: OK
+/tmp/chassis/local/rp/chasfs/rp/0/0/hostinfo/ Sync to global-active-rp: OK
+/tmp/chassis/local/rp/chasfs/rp/0/0/ Sync to global-active-rp: OK
+/tmp/chassis/local/ Sync to global-active-rp: OK
+/tmp/chassis/local/ Sync to global-standby-rp: OK
+toc open; TOC created for /tmp/rp/tdldb/0/FMAN_RP_DB 
+toc open; TOC created for /tmp/rp/tdldb/0/IOS_EMUL_OPER_DB 
+toc open; TOC created for /tmp/rp/tdldb/0/IOS_OPER_DB 
+%TRANSCEIVER-6-INSERTED: Chassis 1 R0/0: iomd: transceiver module inserted in FortyGigabitEthernet1/0/11
+%TRANSCEIVER-6-INSERTED: Chassis 1 R0/0: iomd: transceiver module inserted in FortyGigabitEthernet1/0/3
+%TRANSCEIVER-6-INSERTED: Chassis 2 R0/0: iomd: transceiver module inserted in FortyGigabitEthernet1/0/11
+unable to create property etc/platform_init/nif_mgr_ready reason No such file or directory
+Unable to get service id for MQIPC writer due to Invalid argument
+Unable to resolve service to ngmod-iosd-cman err=Resource temporarily unavailable
+Unknown part number 0x4947a702 fru 0 when search for card database
+UPDATED: global-active-rp chassis_num = 1
+UPDATED: global-standby-rp chassis_num = 2
+UPDATED: my chassis_num = 1
+Update the insert portmap xml
+Updating chasfs FRU cc1/-1 power consumption 500000 MW
+Updating chasfs FRU fp0/-1 power consumption 0 MW
+Uptime Timer (300s) started
+Waiting for FED to be ready

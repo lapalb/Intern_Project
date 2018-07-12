@@ -1,0 +1,13 @@
+ 2018/05/18 03:04:55.835 L7798 {auto_upgrade_client_R1-0}{1} [auto_upgrade_client] 19130 ::   Waiting for local chassis number to publish: /tmp/chassis/my_chassis_number
+ 2018/05/18 03:04:56.009 L7799 {epc_ws_liaison_F1-0}{1} [chasfs] 28268 ::  property open: property my_chassis_number does not exist: /tmp/chassis/./my_chassis_number
+ 2018/05/18 03:04:56.122 L7801 {plogd_1-0}{1} [plogd] 32448 ::  Failed to determine location: Resource temporarily unavailable
+ 2018/05/18 03:04:58.020 L7817 {epc_ws_liaison_F1-0}{1} [chasutil] 28268 ::  Failed to resolve global location, Resource temporarily unavailable
+ 2018/05/18 03:04:58.966 L7828 {inst_issu_switchover_R1-0}{1} [inst_issu_switchover] 17289 ::   watch file not created at 720
+ 2018/05/18 03:05:10.022 L7926 {epc_ws_liaison_F1-0}{1} [chasutil] 28268 ::  Failed to resolve global location, Resource temporarily unavailable
+ 2018/05/18 03:05:10.125 L7927 {plogd_1-0}{1} [chasfs] 32448 ::  property open: property my_chassis_number does not exist: /tmp/chassis/./my_chassis_number
+ 2018/05/18 03:05:10.125 L7928 {plogd_1-0}{1} [plogd] 32448 ::  Failed to determine location: Resource temporarily unavailable
+ 2018/05/18 03:05:13.970 L7961 {inst_issu_switchover_R1-0}{1} [inst_issu_switchover] 17289 ::   watch file not created at 810
+ 2018/05/18 03:05:15.838 L7978 {auto_upgrade_client_R1-0}{1} [auto_upgrade_client] 19130 ::   Waiting for local chassis number to publish: /tmp/chassis/my_chassis_number
+ 2018/05/18 03:05:24.416 L8054 {plogd_F1-0}{1} [chasfs] 29012 ::  property open: property my_chassis_number does not exist: /tmp/chassis/./my_chassis_number
+ 2018/05/18 03:05:24.416 L8055 {plogd_F1-0}{1} [plogd] 29012 ::  Failed to determine location: Resource temporarily unavailable
+ 2018/05/18 03:05:25.026 L8065 {epc_ws_liaison_F1-0}{1} [chasutil] 28268 ::  Failed to resolve global location, Resource temporarily unavailable
